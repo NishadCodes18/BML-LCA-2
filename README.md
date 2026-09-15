@@ -25,11 +25,15 @@ For this practical, I used the **Bank Marketing dataset from UCI ML Repository**
 
 ### Result
 
-The final result and accuracy are shown in the notebook.
+The final results and accuracy are available in the notebook.
 
 ### Files
 
 `LCA_2_Bank_Marketing_KNN.ipynb` → Complete practical exam notebook
+
+`Output photos/` → Screenshots of the outputs obtained while running the experiment
+
+The output folder contains screenshots of the different steps and results of the practical.
 
 ### Used
 
